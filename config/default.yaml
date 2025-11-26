@@ -1,0 +1,7 @@
+model:
+  model_path: "yolo11m.pt"
+  conf_threshold: 0.25
+
+data:
+  processed_data_dir: "data/processed"
+  image_extension: [".jpg", ".jpeg", ".png", ".bmp", ".tiff"]

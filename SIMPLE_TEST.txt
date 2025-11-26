@@ -1,0 +1,40 @@
+🔥 SUPER SIMPLE TEST GUIDE
+==========================
+
+🚀 STEP 1: START APP
+--------------------
+1. Open terminal in project folder
+2. Run: streamlit run app.py
+3. Browser opens at http://localhost:8501
+
+📸 STEP 2: TEST WITH YOUR IMAGE
+-------------------------------
+1. In sidebar, select "Upload Image"
+2. Click "Choose image" button
+3. Select ANY image from your computer
+4. Click "🔍 Analyze Image"
+5. Wait for results!
+
+✅ THAT'S IT! 
+
+📋 WHAT YOU'LL SEE:
+-------------------
+- Your image with red boxes around detected objects
+- List of detected objects with confidence scores
+- Success message showing number of objects found
+
+🔧 IF IT DOESN'T WORK:
+----------------------
+1. Make sure you have an image with clear objects (people, cars, animals)
+2. Try a different image
+3. Check terminal for error messages
+
+💡 EASIEST TEST:
+----------------
+1. Download any photo from Google Images
+2. Save it as "test.jpg" on Desktop
+3. Upload that file
+4. Should detect objects like person, car, etc.
+
+🎯 NO TYPING PATHS NEEDED!
+Just use the upload button - it's foolproof!
